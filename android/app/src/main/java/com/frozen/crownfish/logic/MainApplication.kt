@@ -1,4 +1,4 @@
-package com.frozencrownfishlogic
+package com.frozen.crownfish.logic
 
 import android.app.Application
 import com.facebook.react.PackageList
