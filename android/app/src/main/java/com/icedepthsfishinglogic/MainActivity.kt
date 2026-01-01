@@ -1,4 +1,4 @@
-package com.frozen.crownfish.logic
+package com.icedepthsfishinglogic
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

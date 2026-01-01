@@ -55,7 +55,7 @@ export default function OnboardingScreen({ navigation }: Props) {
       {
         key: '3',
         image: ONBOARD_3,
-        title: 'Earn Crownfish',
+        title: 'Earn fish',
         text: 'Complete all puzzles to unlock\na crowned fish for your collection.',
         button: 'Next',
       },

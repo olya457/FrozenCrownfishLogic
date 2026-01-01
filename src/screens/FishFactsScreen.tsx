@@ -279,7 +279,7 @@ export default function FishFactsScreen({ navigation }: Props) {
           </Pressable>
 
           <Text style={[styles.title, { fontSize: titleSize }]} numberOfLines={1}>
-            Crownfish
+            Fish
           </Text>
 
           <View style={{ width: 44 }} />

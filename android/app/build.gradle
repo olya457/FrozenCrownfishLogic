@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.frozen.crownfish.logic"
+    namespace "com.icedepthsfishinglogic"
     defaultConfig {
-        applicationId "com.frozen.crownfish.logic"
+        applicationId "com.icedepthsfishinglogic"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

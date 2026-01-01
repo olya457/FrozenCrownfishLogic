@@ -138,7 +138,7 @@ export default function HomePageScreen({ navigation }: Props) {
 
         <View style={[styles.menu, { width: menuW }]}>
           <AnimatedMenuButton title="Ice Trials" onPress={() => navigation.navigate('Levels')} anim={b1} fishSize={fishSize} fishInset={fishInset} fontSize={btnFont} height={btnH} />
-          <AnimatedMenuButton title="Crownfish" onPress={() => navigation.navigate('Crownfish')} anim={b2} fishSize={fishSize} fishInset={fishInset} fontSize={btnFont} height={btnH} />
+          <AnimatedMenuButton title="Fish" onPress={() => navigation.navigate('Crownfish')} anim={b2} fishSize={fishSize} fishInset={fishInset} fontSize={btnFont} height={btnH} />
           <AnimatedMenuButton title="Fish Facts" onPress={() => navigation.navigate('FishFacts')} anim={b3} fishSize={fishSize} fishInset={fishInset} fontSize={btnFont} height={btnH} />
           <AnimatedMenuButton title="Favorites" onPress={() => navigation.navigate('Favorites')} anim={b4} fishSize={fishSize} fishInset={fishInset} fontSize={btnFont} height={btnH} />
         </View>
